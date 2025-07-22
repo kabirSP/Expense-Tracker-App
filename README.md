@@ -17,6 +17,8 @@ A full-stack expense tracker app built using the MERN stack (MongoDB, Express, R
 - RESTful API integration with MongoDB via Mongoose.
 
 ![WhatsApp Image 2025-07-22 at 17 57 05_2e49e944](https://github.com/user-attachments/assets/cddc9265-b4ce-4bf5-a4e9-4d539ec8ee19)
+<img width="1647" height="648" alt="image" src="https://github.com/user-attachments/assets/a52c4ba9-5b7f-482e-92c4-7c76c15ef54f" />
+
 
 ---
 
